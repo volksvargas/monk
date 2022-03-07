@@ -19,9 +19,9 @@
     "url": "git://github.com/Automattic/monk.git"
   },
   "dependencies": {
-    "@types/mongodb": "^3.5.25",
+    "@types/mongodb": "^4.0.7",
     "debug": "*",
-    "mongodb": "^3.2.3",
+    "mongodb": "^4.4.1",
     "monk-middleware-cast-ids": "^0.2.1",
     "monk-middleware-fields": "^0.2.0",
     "monk-middleware-handle-callback": "^0.2.0",
